@@ -2,4 +2,8 @@ Cold and dry, bt everything is my favorite color
 the two moons may be a problem for wolfman
 But the mummy will appreciate the lack of humidity
 Add a new line here
+<<<<<<< HEAD
 We need to build a restaurent for travelers
+=======
+add a new line again in this part of the text
+>>>>>>> 0fada51c3cb443f5a5c65e44c47fc590104c2039
